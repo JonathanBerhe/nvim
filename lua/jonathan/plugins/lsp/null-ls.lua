@@ -27,6 +27,7 @@ null_ls.setup({
 			end,
 		}),
 	},
+
 	-- configure format on save
 	on_attach = function(current_client, bufnr)
 		if current_client.supports_method("textDocument/formatting") then
