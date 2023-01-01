@@ -1,3 +1,3 @@
 ### Plugins to add
 
-alpha: ""
+add lazygit integration and keymaps for gitsigns
